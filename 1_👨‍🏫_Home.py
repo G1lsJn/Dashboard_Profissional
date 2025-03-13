@@ -15,7 +15,7 @@ st.sidebar.markdown("Desenvolvido por Gilson Dias [Linkedin](https://www.linkedi
 # Adicionando o logo
 st.logo("logo_google.png")
 
-c1, c2 = st.columns([0.5,0.5])
+c1, c2 = st.columns([0.7,0.3])
 
 # Adicionando a foto de perfil no body
 c1.image("perfil.png", width=150)
